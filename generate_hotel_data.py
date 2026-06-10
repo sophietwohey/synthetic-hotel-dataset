@@ -542,9 +542,9 @@ print("Building transactions table...")
 transactions = build_transactions(reservations, guests)
 
 # save
-guests.to_csv("/mnt/user-data/outputs/guests.csv", index=False)
-reservations.to_csv("/mnt/user-data/outputs/reservations.csv", index=False)
-transactions.to_csv("/mnt/user-data/outputs/transactions.csv", index=False)
+guests.to_csv("guests.csv", index=False)
+reservations.to_csv("reservations.csv", index=False)
+transactions.to_csv("transactions.csv", index=False)
 
 # ── summary ──────────────────────────────────────────────────────────────────
 print("\n── Dataset Summary ───────────────────────────────────────────────")
