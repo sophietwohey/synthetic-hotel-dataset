@@ -579,4 +579,4 @@ print(guests["party_composition"].value_counts().to_string())
 
 print("\n  Outlet revenue breakdown:")
 print(transactions.groupby("outlet")["amount"].sum().sort_values(ascending=False).apply(lambda x: f"${x:,.0f}").to_string())
-print("\n✓ All files saved to /mnt/user-data/outputs/")
+print("\n✓ All files saved to current directory")
