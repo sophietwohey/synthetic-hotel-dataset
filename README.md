@@ -36,10 +36,14 @@ Tools
 Interactive Dashboard
 
 The full analysis and interactive dashboard built on this dataset is available on Tableau Public:
-[Tableau Public link]
+https://public.tableau.com/views/TopGuestSegmentAnalysis/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 Dataset
+
 Also available on Kaggle:
-[Kaggle link]
+https://www.kaggle.com/datasets/sophietwohey/synthetic-hotel-dataset
+
 Analysis
+
 A detailed walkthrough of the findings, methodology, and recommendations based on this dataset:
 [LinkedIn article link]
