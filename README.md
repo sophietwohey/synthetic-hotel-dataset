@@ -10,7 +10,7 @@ The goal wasn't to produce findings to apply to any real property. It was to dem
 
 The Data
 
-- guests.csv — 600 synthetic guest profiles
+- guests.csv - 600 synthetic guest profiles
 - reservations.csv — 3,169 synthetic reservations
 - transactions.csv — 117,000+ outlet transactions across six revenue centers: Bar, Restaurant, In-Room Dining, Spa, Minibar, and Retail
 - guest_profiles.csv — enriched guest intelligence file produced via Tableau Prep, with pre-computed lifetime value and LTV percentile rankings
